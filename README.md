@@ -47,3 +47,4 @@ NEXT_PUBLIC_PROJECT_ID= ["Open AppWrite to find this end-point"]
 NEXT_PUBLIC_APPWRITE_ENDPOINT= ["Open AppWrite to find this end-point"]
 
 ```
+![Screenshot 2024-02-23 at 12 00 19 AM](https://github.com/hvaandres/appwrite-auth-poc/assets/26829975/e90e66f2-4e0b-48cb-aec8-2c7701414d41)
